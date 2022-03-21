@@ -1,0 +1,14 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.formLogin {
+    width: 500px;
+    padding: 20px;
+  }
+
+  .inputLogin{
+      width: 250px;
+  }
